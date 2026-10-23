@@ -1,0 +1,5 @@
+Version mobile corrigée du jeu Halloween.
+Ouvrir index.html via un serveur web.
+Sur mobile, le questionnaire utilise presque tout l’écran.
+IMPORTANT : les polices et le défilement du contenu interne à Eval&Go sont configurés dans Eval&Go et ne peuvent pas être modifiés depuis ce site (iframe externe).
+Vidéo, musique et page d’accueil conservées.
